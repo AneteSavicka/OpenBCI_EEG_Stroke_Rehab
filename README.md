@@ -20,4 +20,4 @@ However, external factors such as variations in recording conditions, electromag
 ![image](https://github.com/AneteSavicka/OpenBCI_EEG_Stroke_Rehab/assets/71130798/349db510-ad0b-4b2e-854a-9eed82b17c5b|width=25)
 
 ### File structure for data recording, preprocessing, and validation with file and real-time
-![image](https://github.com/AneteSavicka/OpenBCI_EEG_Stroke_Rehab/assets/71130798/5dd17872-4594-4318-95bd-5dd6f1424dc8|width=25)
+![image](https://github.com/AneteSavicka/OpenBCI_EEG_Stroke_Rehab/assets/71130798/b72f072f-85e7-49f9-83ee-7c4b64c2ea5e|width=25)
