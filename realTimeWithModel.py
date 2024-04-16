@@ -14,6 +14,13 @@ from filtration import *
 
 # LSTM algorithm created by adapting algorithm published: https://github.com/xiangzhang1015/Deep-Learning-for-BCI/tree/38ecb0645cf861504a637a556fd4de74e106dabf
 
+with_gpu = torch.cuda.is_available()
+if with_gpu:
+    device = torch.device("cuda")
+else:
+    device = torch.device("cpu")
+print('We are using %s now.' %device)
+
 n_class = 2  
 no_feature = 16 # The number of the electrodes
 segment_length = 30  # Selected time window
